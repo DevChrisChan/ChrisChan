@@ -1,0 +1,55 @@
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/kognise/water.css@latest/dist/light.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.0.0/animate.min.css">
+  <link rel="stylesheet" href="CSS/main.css">
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-166601195-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-166601195-1');
+</script>
+  
+  <title>ChrisChan</title>
+ <style>
+
+
+	</style>
+  
+</head>
+  
+<body>
+	<div class="topnav" id="navbar">
+		<a href="index.html" style="text-decoration: none; color: #FFFFFF; float: left;">Home</a>
+		<a href="bots.html" style="text-decoration: none; color: #AAAAAA; float: right">Discord Bot</a>
+		<a href="guide.html" style="text-decoration: none; color: #AAAAAA; float: right">Shortcuts Guide</a>
+		<a href="shortcuts3.html" style="text-decoration: none; color: #AAAAAA; float: right">Shortcuts</a></div>
+	
+	<h1>&nbsp;</h1>
+    
+    <center><img src="https://raw.githubusercontent.com/DevChrisChan/Chris/master/icons/Chris%20150*150.PNG" alt="Unable to Load Avatar"></center>
+
+	&nbsp;
+	
+	<center><h1>iUtilities</h1></center>
+	<h2><center>The Only Shortcut You'll Need</h2></center>
+  
+
+
+  
+<h1>&nbsp;</h1>
+  
+<center><h1 class="animate__heartBeat"><a href="https://routinehub.co/shortcut/1731" style="text-decoration: none;">Get Now</a></h1></center>
+  
+
+
+
+  
+  <!--Place this in the Bottom-->
+  <script src="https://unpkg.com/ionicons@5.0.0/dist/ionicons.js"></script>
+ <script src="https://kit.fontawesome.com/6ba4d7a7e7.js" crossorigin="anonymous"></script>
